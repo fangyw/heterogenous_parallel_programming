@@ -7,9 +7,7 @@ This course introduces concepts, languages techniques, and patterns for programm
 This course is designed for students to learn the essence of low-level programming interfaces and how to use these interfaces to achieve application goals. CUDA C, with its good balance between user control and verboseness, will serve  as the teaching vehicle for the first half of the course. Students will then extend their learning into closely related programming interfaces such as OpenCL, OpenACC, and C++AMP.
 
 ## Suggested readings
-1. <Programming Massively Parallel Processors: A hands-on Approach (Applications of GPU Computing Series).  
-2. <Nvidia, Nvidia CUDA C Programming Guide>
-
+* <Programming Massively Parallel Processors: A hands-on Approach (Applications of GPU Computing Series).  
 
 ## FAQs
 1. Why not teach the whole course using OpenCL?
